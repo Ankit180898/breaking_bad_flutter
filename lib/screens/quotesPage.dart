@@ -6,7 +6,7 @@ class QuotesPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Text"),
+        title: Text("Text2"),
       ),
       body: Container(
         color: Colors.grey,
